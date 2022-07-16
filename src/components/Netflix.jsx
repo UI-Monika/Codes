@@ -2,7 +2,7 @@ import React from "react";
 import Card from "../components/cards";
 import sdata from "../components/Sdata";
 
-const Monika = () =>{
+const Nextflix1 = () =>{
     return(
         <Card
             key={sdata[0].id}
